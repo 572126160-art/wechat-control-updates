@@ -1,0 +1,6 @@
+{
+  "version": "0.3.2",
+  "url": "https://github.com/572126160-art/wechat-control-updates/releases/download/v0.3.2/wechat-control-mvp-v0.3.2-patch.zip",
+  "sha256": "477fbeced7daaf339f50fd130832643626ebe740d6c5c7874396539144676bb4",
+  "notes": "在线更新补丁：更新到 V0.3.2，保留本机配置、日志、任务和输出目录。"
+}
